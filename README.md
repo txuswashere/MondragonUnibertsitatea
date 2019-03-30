@@ -1,5 +1,5 @@
-# Mondragon Unibertsitatea
-* https://www.mondragon.edu/
+![https://www.mondragon.edu/](https://raw.githubusercontent.com/txuswashere/MondragonUnibertsitatea/master/MU.jpg "https://www.mondragon.edu/")
+# https://www.mondragon.edu/
 
 ### Mondragon Corporation
 * https://www.mondragon.edu/en/meet-mu/mondragon-corporation
